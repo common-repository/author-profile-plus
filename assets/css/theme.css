@@ -1,0 +1,9 @@
+/*!
+ *  Author Profile Plus - theme
+ */
+
+.author-profile blockquote .gravatar-wrapper, .author-profile blockquote .avatar {
+	padding: 10px;
+	margin: 0 15px 10px 0;
+	float: left;
+}
